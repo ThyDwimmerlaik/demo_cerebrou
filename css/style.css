@@ -11,11 +11,11 @@
     General
 ====================================================================================*/
 /*----------------------------------------
-  General Layout Style
+  General Layout Style Fondo de Aréa de trabajo 
 ------------------------------------------*/
 
 body {
-  background-color: #FFFFFF;
+  background-color: #F9E238;
 }
 #main,
 footer {
@@ -149,7 +149,7 @@ li.li-hover:hover{
   margin: -75px 0 0 -75px;
   border-radius: 50%;
   border: 3px solid transparent;
-  border-top-color: #3498db;
+  border-top-color: #F9E238;
   -webkit-animation: spin 2s linear infinite;
   /* Chrome, Opera 15+, Safari 5+ */
   
@@ -175,7 +175,7 @@ li.li-hover:hover{
   bottom: 5px;
   border-radius: 50%;
   border: 3px solid transparent;
-  border-top-color: #e74c3c;
+  border-top-color: #F9E238;
   -webkit-animation: spin 3s linear infinite;
   /* Chrome, Opera 15+, Safari 5+ */
   
@@ -191,7 +191,7 @@ li.li-hover:hover{
   bottom: 15px;
   border-radius: 50%;
   border: 3px solid transparent;
-  border-top-color: #f9c922;
+  border-top-color: #F9E238;
   -webkit-animation: spin 1.5s linear infinite;
   /* Chrome, Opera 15+, Safari 5+ */
   
@@ -247,7 +247,7 @@ li.li-hover:hover{
   top: 0;
   width: 51%;
   height: 100%;
-  background: #222222;
+  background: #216EA2;
   z-index: 1000;
   -webkit-transform: translateX(0);
   /* Chrome, Opera 15+, Safari 3.1+ */
@@ -499,7 +499,7 @@ ul.side-nav.leftside-navigation hr {
   display: block;
   height: 1px;
   border: 0;
-  border-top: 1px solid #e0e0e0;
+  border-top: 1px solid #F9E238;
   margin: 1em 0;
   padding: 0;
 }
